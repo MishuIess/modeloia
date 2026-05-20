@@ -4,4 +4,6 @@ scikit-learn
 mlflow
 streamlit
 matplotlib
-jupyter
+nltk
+jupyterlab
+flask
